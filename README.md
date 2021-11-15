@@ -1,7 +1,7 @@
 # Webpage Of a Barbershop
 
-In this project I worked with:\\
-
+In this project I worked with:\
+\
 Marking the first text;\
 Separating content and information;\
 Working with CSS;\
