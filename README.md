@@ -25,4 +25,4 @@ External content;\
 Improving CSS;\
 Selecting anything;\
 Opacity and shadow;\
-Responsive design.\
+Responsive design.
